@@ -1,0 +1,7 @@
+body {
+    background: url("https://imgpile.com/images/5cc803373a437e417dbbe1853b5f068b.jpg");
+  }
+.jumbotron {
+    text-align: center;
+    text-shadow: -1px 0 grey, 0 1px grey, 1px 0 grey, 0 -1px grey;
+}
